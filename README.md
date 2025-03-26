@@ -11,23 +11,16 @@ This project is a **voice assistant** built using Python, capable of performing 
 - **Automating tasks** like opening apps and browsing  
 
 ## 🚀 Features
-🎤 Speech-to-Text (STT): Converts spoken words into text using WhisperModel.
-🗣️ Text-to-Speech (TTS): Reads responses aloud using pyttsx3.
-📚 Wikipedia Search: Fetches and summarizes information from Wikipedia.
-
-▶️ YouTube Control: Plays YouTube videos based on voice commands.
-
-🧠 WolframAlpha Integration: Answers factual questions.
-
-🌐 Web Browsing Automation: Opens web pages based on voice commands.
-
-😂 Tells Jokes: Fetches and reads out random jokes.
-
-🤖 Google Gemini AI: Generates AI-powered responses.
-
-⏰ Time and Date Retrieval: Tells the current time and date.
-
-📍 Geolocation Services: Retrieves the user's location details.
+- 🎤 Speech-to-Text (STT): Converts spoken words into text using WhisperModel.
+- 🗣️ Text-to-Speech (TTS): Reads responses aloud using pyttsx3.
+- 📚 Wikipedia Search: Fetches and summarizes information from Wikipedia.
+- ▶️ YouTube Control: Plays YouTube videos based on voice commands.
+- 🧠 WolframAlpha Integration: Answers factual questions.
+- 🌐 Web Browsing Automation: Opens web pages based on voice commands.
+- 😂 Tells Jokes: Fetches and reads out random jokes.
+- 🤖 Google Gemini AI: Generates AI-powered responses.
+- ⏰ Time and Date Retrieval: Tells the current time and date.
+- 📍 Geolocation Services: Retrieves the user's location details.
 
 ## 🔧 Requirements
 To run this notebook, install the required dependencies:
