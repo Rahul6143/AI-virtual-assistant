@@ -1,0 +1,17 @@
+bs4
+faster-whisper
+geocoder
+google-generativeai
+pandas
+pyaudio
+pyjokes
+pyttsx3
+pywhatkit
+requests
+SpeechRecognition
+subprocess
+urllib.request
+webbrowser
+wikipedia
+win32com.client
+wolframalpha
